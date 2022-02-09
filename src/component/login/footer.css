@@ -28,10 +28,16 @@ footer * {
   min-height: 10em;
 }
 .footertitle {
-  color: rgb(255, 208, 0);
   flex-grow: 1;
   padding-bottom: 10px;
   font-family: "Abril Fatface", cursive;
+  color: #f8961e;
+}
+.p1 {
+  color: white;
+}
+.h31 {
+  color: rgb(255, 208, 0);
 }
 ul {
   list-style: none;

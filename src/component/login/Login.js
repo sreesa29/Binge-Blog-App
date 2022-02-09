@@ -67,7 +67,7 @@ function Login() {
             <div className="logother">
                 <br/>
                     <h3>Don't have an account?</h3>
-                    <Link className="registerbutton" to="/register" style={{textDecoration:"none", color:"#f8961e", fontWeight:"bolder"}}>Register here</Link>
+                    <Link className="registerbutton" to="/register">Register here</Link>
                 </div> 
                 </div>
         </div>

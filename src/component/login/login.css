@@ -52,6 +52,9 @@
 }
 
 .buttonlog {
+  text-decoration: none;
+  color: #f8961e;
+  font-weight: bolder;
   border: 2px solid #f8961e;
   border-radius: 10px;
   width: 80px;
